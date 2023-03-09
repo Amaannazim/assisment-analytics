@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/assisment-analytics/static/css/main.7258f90c.css",
+    "main.js": "/assisment-analytics/static/js/main.3ec74c90.js",
+    "static/js/787.87056d28.chunk.js": "/assisment-analytics/static/js/787.87056d28.chunk.js",
+    "index.html": "/assisment-analytics/index.html",
+    "main.7258f90c.css.map": "/assisment-analytics/static/css/main.7258f90c.css.map",
+    "main.3ec74c90.js.map": "/assisment-analytics/static/js/main.3ec74c90.js.map",
+    "787.87056d28.chunk.js.map": "/assisment-analytics/static/js/787.87056d28.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7258f90c.css",
+    "static/js/main.3ec74c90.js"
+  ]
+}
